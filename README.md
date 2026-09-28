@@ -1,1 +1,1 @@
-# smart-learning-planner
+# EMG:on
